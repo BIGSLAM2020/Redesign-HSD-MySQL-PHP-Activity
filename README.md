@@ -2,6 +2,7 @@
 Updating CSS in the HTML files and added few PHP and MYSQL
 
 # This is my side project I done after taking an MySQL DataBase course...
+<<<<<<< HEAD
 
 - This just shows that database can be use for PHP and MySQL code to pages
 - An example is The Heather Sweeney Design is example page of customer and employees recorded for business purposes.
@@ -25,3 +26,5 @@ http://sabdul.it.pointpark.edu:3000/
 
 
 ## This section is on the project side bar of my website!
+=======
+>>>>>>> 27705fbb215c8bcde62a4479f9fba1935a22fc84
